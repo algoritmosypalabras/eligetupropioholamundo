@@ -1,0 +1,17 @@
+*página 1
+Bosque en lo más profundo del valle más oscuro con el que tus ojos se hayan encontrado jamás.
+Pasa a la página 2.
+*página 2
+Montaña
+Si vas al lago, pasa a la página 4.
+Si vas a la pradera, pasa a la página 5.
+Si vas al río, pasa a la página 6.
+*página 4
+Lago
+Fin
+*página 5
+Pradera
+Fin
+*página 6
+Río
+Fin
